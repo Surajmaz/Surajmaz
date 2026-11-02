@@ -11,14 +11,14 @@
 
 ### 🔬 About Me
 
-* 🔭 **Currently Working On:** Developing **Mark-L / JARVIS** (an async Python voice assistant built with FastAPI & Google GenAI) and custom CLI system automation scripts tailored for Arch/CachyOS Linux.
-* 🌱 **Currently Learning:** Advanced cybersecurity principles, threat modeling, vulnerability analysis, network defense architectures, and cloud security frameworks (AWS).
-* 👯 **Looking to Collaborate On:** Open-source cybersecurity tools, Python automation libraries, terminal-first system utilities, interactive AI workflows, and network security projects.
-* 🤝 **Looking for Help With:** Deep low-level system design, reverse engineering protocols, performance tuning for complex network applications, and scalable backend architecture.
-* 💬 **Ask Me About:** Linux administration (CachyOS/Arch/Fedora), Python dev (FastAPI, Pyright), terminal workflows, networking, & Linux gaming setups (Lutris, Wine GE, Prism Launcher).
-* 📫 **How to Reach Me:** [surajmazumdar27@gmail.com](mailto:surajmazumdar27@gmail.com)
-* ⚡ **Fun Fact:** I'll happily spend 4 hours writing a shell script, tweaking environment variables, and configuring custom kernel parameters just to automate a 30-second manual task.
-* 🌐 **Portfolio:** [portfolio-theta-sable-80.vercel.app](https://portfolio-theta-sable-80.vercel.app/)
+- 🔭 **Currently Working On:** Developing **Mark-L / JARVIS** (an async Python voice assistant built with FastAPI & Google GenAI) and custom CLI system automation scripts tailored for Arch/CachyOS Linux.
+- 🌱 **Currently Learning:** Advanced cybersecurity principles, threat modeling, vulnerability analysis, network defense architectures, and cloud security frameworks (AWS).
+- 👯 **Looking to Collaborate On:** Open-source cybersecurity tools, Python automation libraries, terminal-first system utilities, interactive AI workflows, and network security projects.
+- 🤝 **Looking for Help With:** Deep low-level system design, reverse engineering protocols, performance tuning for complex network applications, and scalable backend architecture.
+- 💬 **Ask Me About:** Linux administration (CachyOS/Arch/Fedora), Python dev (FastAPI, Pyright), terminal workflows, networking, & Linux gaming setups (Lutris, Wine GE, Prism Launcher).
+- 📫 **How to Reach Me:** [surajmazumdar27@gmail.com](mailto:surajmazumdar27@gmail.com)
+- ⚡ **Fun Fact:** I'll happily spend 4 hours writing a shell script, tweaking environment variables, and configuring custom kernel parameters just to automate a 30-second manual task.
+- 👨‍💻 **Portfolio:** [portfolio-theta-sable-80.vercel.app](https://portfolio-theta-sable-80.vercel.app/)
 
 ---
 
@@ -43,19 +43,22 @@
 
 ### 📊 GitHub Analytics & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajmaz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmaz&layout=compact&theme=tokyonight&hide_border=true" width="46%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajmaz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmaz&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Surajmaz&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Surajmaz&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak" />
+</div>
 
 #### 📈 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajmaz&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajmaz&theme=tokyo-night&hide_border=true" width="750" alt="Contribution Graph" />
+</div>
 
 ---
 
