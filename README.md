@@ -18,7 +18,7 @@
 - 💬 **Ask Me About:** Linux administration (CachyOS/Arch/Fedora), Python dev (FastAPI, Pyright), terminal workflows, networking, & Linux gaming setups (Lutris, Wine GE, Prism Launcher).
 - 📫 **How to Reach Me:** [surajmazumdar27@gmail.com](mailto:surajmazumdar27@gmail.com)
 - ⚡ **Fun Fact:** I'll happily spend 4 hours writing a shell script, tweaking environment variables, and configuring custom kernel parameters just to automate a 30-second manual task.
-- 👨‍💻 **Portfolio:** [portfolio-theta-sable-80.vercel.app](https://portfolio-theta-sable-80.vercel.app/)
+- 👨‍💻 **Portfolio:** [portfolio-theta-sable-80.vercel.app](surajmaz-portfolio.vercel.app)
 
 ---
 
