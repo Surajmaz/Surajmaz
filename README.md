@@ -55,20 +55,14 @@
 ### 📊 GitHub Analytics & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajmaz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="410" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmaz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="360" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Surajmaz&show_icons=true&locale=en&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Surajmaz&layout=compact&theme=tokyonight&hide_border=true&include_forks=true" width="360" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Surajmaz&theme=tokyonight&hide_border=true" width="780" alt="GitHub Streak" />
-</div>
-
-#### 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajmaz&theme=tokyo-night&hide_border=true" width="780" alt="Contribution Graph" />
 </div>
 
 ---
