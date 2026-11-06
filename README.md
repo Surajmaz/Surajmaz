@@ -131,24 +131,46 @@ fun_fact: "I think the terminal is more beautiful than any GUI"
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/Surajmaz/HealthCatch-AI">🩺 HealthCatch-AI</a></h3>
+
+<p>AI-powered health monitoring and analysis application</p>
+
+<img src="https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI/ML-a855f7?style=flat-square&logo=tensorflow&logoColor=white"/>
+<br/><br/>
 <a href="https://github.com/Surajmaz/HealthCatch-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surajmaz&repo=HealthCatch-AI&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9" width="49%" alt="HealthCatch AI"/>
-</a>
-<a href="https://github.com/Surajmaz/Multipurpose-discord-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surajmaz&repo=Multipurpose-discord-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9" width="49%" alt="Discord Bot"/>
+<img src="https://img.shields.io/badge/VIEW_REPO_→-0d1117?style=for-the-badge&logo=github&logoColor=0ea5e9"/>
 </a>
 
-</div>
+</td>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/Surajmaz/Multipurpose-discord-bot">🤖 Multipurpose Discord Bot</a></h3>
+
+<p>Feature-rich Discord bot with moderation, utilities & fun commands</p>
+
+<img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Surajmaz/Multipurpose-discord-bot">
+<img src="https://img.shields.io/badge/VIEW_REPO_→-0d1117?style=for-the-badge&logo=github&logoColor=6366f1"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-<div align="center">
 
 ### 🚀 Currently Building
 
 <table>
 <tr>
-<td>
+<td align="center">
 
 <h3>🤖 Mark-L / JARVIS</h3>
 
@@ -188,8 +210,8 @@ fun_fact: "I think the terminal is more beautiful than any GUI"
 
 <br/>
 
-<!-- Stats Grid -->
-<img src="https://github-readme-stats.vercel.app/api?username=Surajmaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9&ring_color=6366f1&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<!-- Stats + Streak side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surajmaz&theme=2077" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Surajmaz&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=A855F7&currStreakLabel=0EA5E9&sideLabels=6366F1&dates=555555" width="49%" alt="Streak Stats"/>
 
 <br/>
@@ -200,8 +222,8 @@ fun_fact: "I think the terminal is more beautiful than any GUI"
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Surajmaz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" alt="GitHub Trophies"/>
+<!-- GitHub Trophies — using ryo-ma's reliable instance -->
+<img src="https://github-profile-trophy.vercel.app/?username=Surajmaz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
