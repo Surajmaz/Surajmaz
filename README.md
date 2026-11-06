@@ -1,153 +1,254 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:10243A,100:007ACC&height=250&section=header&text=SURAJ%20MAZUMDAR&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20PYTHON%20AUTOMATION&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Suraj Mazumdar" />
+<!-- ═══════════════════════════════════════════════════════════════════════
+     HEADER — Animated gradient wave with glitch-style name
+     ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:0ea5e9,75:6366f1,100:a855f7&height=280&section=header&text=SURAJ%20MAZUMDAR&fontSize=52&fontColor=e2e8f0&fontAlignY=34&desc=%E2%9A%A1%20CYBERSECURITY%20%E2%80%A2%20LINUX%20%E2%80%A2%20PYTHON%20AUTOMATION%20%E2%9A%A1&descSize=15&descAlignY=58&animation=twinkling" width="100%" alt="Suraj Mazumdar — Cybersecurity | Linux | Python Automation" />
+
+<!-- Terminal-style typing animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%24+whoami+%E2%86%92+cybersecurity_student+%26%26+linux_enthusiast;%24+cat+skills.txt+%E2%86%92+python+%7C+automation+%7C+threat_defense;%24+echo+%22Building+Mark-L+%2F+JARVIS+%F0%9F%A4%96%22;%24+nmap+-sV+future+%E2%86%92+Ports+open%3A+innovation%2C+security%2C+code" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&height=50&lines=Cybersecurity+Student+%26+Linux+Enthusiast;Python+Automation+%26+Backend+Developer;Building+Mark-L+%2F+JARVIS;Exploring+System+Security+%26+Network+Defense" alt="Typing SVG" />
-</a>
+<!-- Badges row — profile metrics -->
+<img src="https://komarev.com/ghpvc/?username=Surajmaz&style=for-the-badge&color=0ea5e9&label=VISITORS" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Surajmaz?style=for-the-badge&logo=github&color=6366f1&labelColor=1a1e2e&label=FOLLOWERS" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-a855f7?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1e2e" alt="Focus"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Surajmaz&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Surajmaz?style=for-the-badge&logo=github&color=007ACC&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-007ACC?style=for-the-badge&logo=linux&logoColor=white" alt="Focus"/>
-
-<br/><br/>
-
+<!-- CTA buttons -->
 <a href="https://surajmaz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/MY_PORTFOLIO-007ACC?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-0ea5e9?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Surajmaz?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/📦_REPOSITORIES-6366f1?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:surajmazumdar27@gmail.com">
+<img src="https://img.shields.io/badge/✉️_CONTACT_ME-a855f7?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## `01` — ABOUT ME
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="280" src="https://github.com/Surajmaz.png" alt="Suraj's GitHub avatar"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Hey! I'm **Suraj Mazumdar**, a cybersecurity student who enjoys exploring Linux, building Python applications, and understanding how systems work under the hood.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-I'm particularly interested in system security, automation, networking and AI-powered applications.
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
 
-- 🔭 **Currently building:** Mark-L / JARVIS voice assistant.
-- 🌱 **Learning:** Cybersecurity, threat modeling, network defense and AWS.
-- 🐧 **Daily interests:** Linux, system administration and terminal automation.
-- 🛠️ **Building with:** Python, FastAPI, Bash and JavaScript.
-- 🤝 **Open to:** Open-source collaboration and interesting development projects.
-- 💬 **Ask me about:** Linux, Python, networking and system optimization.
-- 📫 **Email:** [surajmazumdar27@gmail.com](mailto:surajmazumdar27@gmail.com)
-- 🌐 **Portfolio:** [Visit website](https://surajmaz-portfolio.vercel.app/)
+```yaml
+name: Suraj Mazumdar
+located_in: India
+current_focus: Cybersecurity & AI Voice Assistants
+
+education:
+  - Cybersecurity (Student)
+
+fields_of_interest:
+  - System Security & Threat Modeling
+  - Network Defense & Penetration Testing
+  - Python Automation & Backend Development
+  - Linux System Administration
+  - AI-Powered Applications
+
+currently_building: "Mark-L / JARVIS 🤖"
+fun_fact: "I think the terminal is more beautiful than any GUI"
+```
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `02` — TECH STACK
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-### Languages & Systems
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=py,bash,c,linux,js,ts,html,css,php&theme=dark&perline=9" alt="Languages"/>
+### 🔤 Languages & Scripting
+<br/>
+<img src="https://skillicons.dev/icons?i=py,bash,c,js,ts,php&theme=dark&perline=3" alt="Languages"/>
+<br/><br/>
 
-### Frameworks, Databases & Cloud
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,mongodb,mysql,aws,gcp&theme=dark&perline=9" alt="Frameworks and cloud"/>
+### 🖥️ Systems & Platforms
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu&theme=dark&perline=3" alt="Systems"/>
+<br/><br/>
 
-### Tools & Development
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,photoshop&theme=dark&perline=9" alt="Development tools"/>
+### ⚡ Frameworks & Backend
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,flask&theme=dark&perline=4" alt="Frameworks"/>
+<br/><br/>
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Databases & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp&theme=dark&perline=4" alt="Databases & Cloud"/>
+<br/><br/>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🛠️ Tools & Workflow
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,neovim,androidstudio,photoshop&theme=dark&perline=7" alt="Tools"/>
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `03` — FEATURED PROJECTS
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Surajmaz/HealthCatch-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surajmaz&repo=HealthCatch-AI&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="HealthCatch AI"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surajmaz&repo=HealthCatch-AI&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9" width="49%" alt="HealthCatch AI"/>
 </a>
 <a href="https://github.com/Surajmaz/Multipurpose-discord-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surajmaz&repo=Multipurpose-discord-bot&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Discord bot"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surajmaz&repo=Multipurpose-discord-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9" width="49%" alt="Discord Bot"/>
 </a>
 
 </div>
 
-### 🚧 Currently Working On
-
-**Mark-L / JARVIS**
-
-An asynchronous Python voice assistant focused on AI-powered interactions, automation and real-time communication.
-
-`Python` `FastAPI` `WebSockets` `Google GenAI`
-
----
-
-## `04` — GITHUB ANALYTICS
+<br/>
 
 <div align="center">
 
-### Overall Profile & Contributions
+### 🚀 Currently Building
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surajmaz&theme=tokyonight" width="100%" alt="GitHub contribution overview"/>
+<table>
+<tr>
+<td>
 
-<br/><br/>
+<h3>🤖 Mark-L / JARVIS</h3>
 
-### Statistics & Programming Languages
+> *An asynchronous AI-powered voice assistant with real-time communication,
+> intelligent automation, and natural conversation abilities.*
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surajmaz&theme=tokyonight" width="49%" alt="GitHub statistics"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surajmaz&theme=tokyonight" width="49%" alt="Languages used in repositories"/>
+<br/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-6366f1?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/WebSockets-a855f7?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/Google_GenAI-0ea5e9?style=flat-square&logo=google&logoColor=white" alt="Google GenAI"/>
 
-### Language Distribution by Commits
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surajmaz&theme=tokyonight" width="49%" alt="Most used languages in commits"/>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `05` — CONNECT WITH ME
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Bd8/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surajmaz&theme=2077" width="100%" alt="Contribution overview"/>
+
+<br/>
+
+<!-- Stats Grid -->
+<img src="https://github-readme-stats.vercel.app/api?username=Surajmaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9&ring_color=6366f1&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Surajmaz&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=A855F7&currStreakLabel=0EA5E9&sideLabels=6366F1&dates=555555" width="49%" alt="Streak Stats"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surajmaz&theme=2077" width="32.5%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surajmaz&theme=2077" width="32.5%" alt="Commits per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surajmaz&theme=2077&utcOffset=5.5" width="32.5%" alt="Productive time"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Surajmaz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Surajmaz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="mailto:surajmazumdar27@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+&nbsp;
 <a href="https://instagram.com/suraj_mazumdar1337">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-<br/>
-
+&nbsp;
 <a href="https://youtube.com/@IZMANTIGAMING">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
+&nbsp;
 <a href="https://discord.gg/UZHbRuxJja">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
 
-*Automate the boring. Understand the complex. Secure the system.*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" width="80%"/>
+
+<br/><br/>
+
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   "Automate the boring. Understand the complex.              ║
+ ║    Secure the system."                                       ║
+ ║                                                              ║
+ ║                                    — Suraj Mazumdar          ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,50:10243A,100:080B16&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:6366f1,50:0ea5e9,75:161b22,100:0d1117&height=150&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
