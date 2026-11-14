@@ -1,183 +1,176 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗
+     ║  SURAJ MAZUMDAR — GitHub Profile README                                ║
+     ║  Theme: Cyberpunk Neon Terminal | Color: Cyan × Purple × Pink          ║
+     ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     HEADER — Cyberpunk Animated Gradient Wave
-     ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0c0a3e,60:7c3aed,100:00f2fe&height=200&section=header&text=&fontSize=0" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,20:0f172a,40:1e1b4b,65:0284c7,85:6366f1,100:a855f7&height=280&section=header&text=SURAJ%20MAZUMDAR&fontSize=52&fontColor=f1f5f9&fontAlignY=34&desc=%E2%9A%A1%20CYBERSECURITY%20%E2%80%A2%20LINUX%20SYSTEMS%20%E2%80%A2%20AI%20AUTOMATION%20%E2%9A%A1&descSize=15&descAlignY=58&animation=twinkling" width="100%" alt="Suraj Mazumdar — Cybersecurity & Automation" />
-
-<!-- Terminal-Style Typing Animation -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1100&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=85&lines=%24+whoami+%E2%86%92+Suraj+Mazumdar+%7C+Cybersecurity+Student+%26+Linux+Enthusiast;%24+cat+stack.txt+%E2%86%92+Python+%7C+FastAPI+%7C+Bash+%7C+Network+Defense;%24+status+%E2%86%92+Building+Mark-L+%2F+JARVIS+Voice+Assistant+%F0%9F%A4%96;%24+nmap+-T4+future+%E2%86%92+Ports+22%2C+80%2C+443+OPEN+%7C%7C+Always+Innovating" alt="Typing SVG" />
-</a>
+<!-- ░▒▓ HERO — Glowing Name + Subtitle ▓▒░ -->
 
 <br/>
 
-<!-- Live Profile Telemetry Badges -->
-<img src="https://komarev.com/ghpvc/?username=Surajmaz&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Surajmaz?style=for-the-badge&logo=github&color=6366f1&labelColor=0f172a&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-a855f7?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0f172a" alt="Cybersecurity Focus"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING_AI-00f2fe?style=for-the-badge&logo=probot&logoColor=white&labelColor=0f172a" alt="Status"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f2fe&text=SURAJ%20MAZUMDAR&height=120&fontSize=60&fontAlignY=50&desc=⟨%20CYBERSECURITY%20•%20LINUX%20SYSTEMS%20•%20AI%20AUTOMATION%20⟩&descColor=7c3aed&descSize=16&descAlignY=85&animation=twinkling" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=EC4899&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%94%8C%E2%94%80%5Broot%40kali%5D%E2%94%80%24+Building+the+future+of+cybersecurity;%E2%94%8C%E2%94%80%5Broot%40kali%5D%E2%94%80%24+echo+%22Mark-L+%2F+JARVIS+online+%F0%9F%A4%96%22;%E2%94%8C%E2%94%80%5Broot%40kali%5D%E2%94%80%24+nmap+-T4+--open+innovation.io;%E2%94%8C%E2%94%80%5Broot%40kali%5D%E2%94%80%24+Securing+systems.+Writing+code." alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<!-- Quick Navigation Pill Buttons -->
-<a href="https://surajmaz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-0284c7?style=for-the-badge&logoColor=white"/>
-</a>
+<!-- ░▒▓ LIVE METRICS STRIP ▓▒░ -->
+
+<img src="https://komarev.com/ghpvc/?username=Surajmaz&style=for-the-badge&color=0d1117&label=👁️+PROFILE+VIEWS&labelColor=0d1117" alt="Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Surajmaz?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117&label=👥+FOLLOWERS" alt="Followers"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/Surajmaz?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117&label=⭐+STARS&affiliations=OWNER" alt="Stars"/>
+
+<br/><br/>
+
+<a href="https://surajmaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/◉_PORTFOLIO-00f2fe?style=flat-square&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/Surajmaz?tab=repositories">
-<img src="https://img.shields.io/badge/📦_REPOSITORIES-6366f1?style=for-the-badge&logoColor=white"/>
-</a>
+<a href="https://github.com/Surajmaz?tab=repositories"><img src="https://img.shields.io/badge/◉_REPOSITORIES-7c3aed?style=flat-square&logoColor=white"/></a>
 &nbsp;
-<a href="https://discord.gg/UZHbRuxJja">
-<img src="https://img.shields.io/badge/💬_JOIN_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<a href="https://discord.gg/UZHbRuxJja"><img src="https://img.shields.io/badge/◉_DISCORD-ec4899?style=flat-square&logo=discord&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:surajmazumdar27@gmail.com">
-<img src="https://img.shields.io/badge/✉️_GET_IN_TOUCH-a855f7?style=for-the-badge&logoColor=white"/>
-</a>
+<a href="mailto:surajmazumdar27@gmail.com"><img src="https://img.shields.io/badge/◉_EMAIL-00f2fe?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<!-- Animated Rainbow Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp; `system.profile` — ABOUT ME
+<!-- ╭──────────────────────────────────────────────────────────────────────╮
+     │  § 01  —  ABOUT ME                                                  │
+     ╰──────────────────────────────────────────────────────────────────────╯ -->
 
-<table width="100%" border="0">
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/>
+&nbsp;ABOUT ME
+</h2>
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-```zsh
-suraj@cyberdeck:~# neofetch --ascii_distro kali
+```js
+// suraj.config.js
+
+const Suraj = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    education: "Cybersecurity & Network Defense",
+    
+    currentlyBuilding: "Mark-L / JARVIS 🤖",
+    
+    askMeAbout: [
+        "Cybersecurity", "Linux",
+        "Python Automation", "AI Systems",
+        "Network Defense", "System Hardening"
+    ],
+    
+    dailyStack: {
+        os:        ["Kali Linux", "Ubuntu"],
+        languages: ["Python", "Bash", "JavaScript"],
+        backend:   ["FastAPI", "Flask", "Node.js"],
+        ai:        ["Google GenAI", "Gemini API"],
+        devOps:    ["Docker", "Git", "AWS"],
+        databases: ["MongoDB", "MySQL"],
+    },
+
+    philosophy: "Automate the boring. Secure the system."
+};
 ```
 
-- 👤 **Identity:** Suraj Mazumdar
-- 🎓 **Major:** Cybersecurity & Network Defense
-- 📍 **Location:** India
-- 🛡️ **Interests:** System Hardening, Penetration Testing, Threat Modeling & OSINT
-- 🤖 **Flagship Project:** **Mark-L / JARVIS** (Next-Gen AI Voice System)
-- 🐧 **Daily Driver:** Linux & Terminal Workflows
-- ⚡ **Core Philosophy:** *"Automate the routine. Demystify the complex. Secure the core."*
-- 🤝 **Collaboration:** Open for high-impact open-source cyber & AI automation tools
-
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center" valign="center">
 
-<img width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Terminal animation" style="border-radius: 12px;"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" style="border-radius:12px;"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING_AI-00f2fe?style=for-the-badge&labelColor=0d1117&logoColor=white&logo=probot" alt="Status"/>
+<br/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-7c3aed?style=for-the-badge&labelColor=0d1117&logoColor=white&logo=kalilinux" alt="Focus"/>
+<br/>
+<img src="https://img.shields.io/badge/DAILY_OS-LINUX-ec4899?style=for-the-badge&labelColor=0d1117&logoColor=white&logo=linux" alt="OS"/>
 
 </td>
 </tr>
 </table>
 
-<!-- Animated Rainbow Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> &nbsp; `security.arsenal` — TECH MATRIX
+<!-- ╭──────────────────────────────────────────────────────────────────────╮
+     │  § 02  —  TECH ARSENAL                                              │
+     ╰──────────────────────────────────────────────────────────────────────╯ -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/>
+&nbsp;TECH ARSENAL
+</h2>
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center" width="50%" valign="top">
-
-### 🛡️ Cybersecurity & Operating Systems
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,c,docker&theme=dark&perline=6" alt="Systems and Security"/>
-<br/><br/>
-<sub><em>Kali Linux • Ubuntu Core • Linux Kernel • Shell Scripting • C Architecture • Containerization</em></sub>
-<br/><br/>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-### ⚡ Languages & Scripting
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css&theme=dark&perline=6" alt="Languages"/>
-<br/><br/>
-<sub><em>Python 3 • Modern JavaScript • TypeScript • PHP • Semantic HTML5 • CSS3</em></sub>
-<br/><br/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-### 🔮 Backend & AI Architecture
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react&theme=dark&perline=4" alt="Frameworks"/>
-<br/><br/>
-<sub><em>FastAPI • Flask Microservices • Node.js Engine • React Frontend • Google GenAI • WebSockets</em></sub>
-<br/><br/>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-### ☁️ Cloud, Databases & DevOps
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql,git,github&theme=dark&perline=6" alt="Cloud and Databases"/>
-<br/><br/>
-<sub><em>Amazon Web Services • Google Cloud • MongoDB • MySQL Relational • Git SCM • GitHub CI/CD</em></sub>
-<br/><br/>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2" valign="top">
-
-### 🛠️ Developer Suite & Power Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,neovim,postman,androidstudio,photoshop&theme=dark&perline=7" alt="Developer Tools"/>
-<br/><br/>
-<sub><em>VS Code • Neovim • Postman API Client • Android Studio • Adobe Creative Suite</em></sub>
-<br/><br/>
-
-</td>
-</tr>
-</table>
+| 🛡️ **Cybersecurity & OS** | ⚡ **Languages** | 🔮 **Backend & AI** | ☁️ **Cloud & Data** | 🛠️ **Tools** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=py,bash,js,ts,c,php&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react&theme=dark&perline=2"/> | <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql&theme=dark&perline=2"/> | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,neovim,postman&theme=dark&perline=3"/> |
 
 </div>
 
-<!-- Animated Rainbow Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; `projects.featured` — SHOWCASE
+<!-- ╭──────────────────────────────────────────────────────────────────────╮
+     │  § 03  —  FEATURED PROJECTS                                         │
+     ╰──────────────────────────────────────────────────────────────────────╯ -->
+
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/>
+&nbsp;FEATURED PROJECTS
+</h2>
 
 <div align="center">
 
-<!-- Flagship Project Card -->
-<table width="100%">
+<!-- ▸ FLAGSHIP PROJECT -->
+
+<table>
 <tr>
-<td style="padding: 18px;">
+<td>
 
-<div align="left">
-<span style="float: right;">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00f2fe?style=for-the-badge&logoColor=white"/>
-</span>
+<h3 align="center">🤖 Mark-L / JARVIS — Next-Gen AI Voice System</h3>
 
-### 🤖 `Mark-L / JARVIS` — Next-Gen AI Voice System
+<div align="center">
 
-> *An asynchronous, high-performance voice assistant engineered with conversational intelligence, instant device control, and continuous automation loops.*
+<img src="https://img.shields.io/badge/🔥_FLAGSHIP_PROJECT-ec4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEV-00f2fe?style=flat-square"/>
 
-<br/>
-
-- ⚡ **Core Architecture:** Asynchronous Python event loop powered by FastAPI & WebSockets
-- 🧠 **Neural Engine:** Integrated Google GenAI / Gemini API for natural context reasoning
-- 🎙️ **Real-Time Pipeline:** Low-latency audio stream processing and system-level automation
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python_3.11-0ea5e9?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-6366f1?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-a855f7?style=flat-square&logo=socketdotio&logoColor=white"/>
+> *A high-performance asynchronous voice assistant with conversational AI, real-time device control, and intelligent automation — built from scratch with Python.*
+
+<br/>
+
+```
+ 🧬 Architecture
+ ├── 🧠 Neural Engine ─── Google GenAI / Gemini API
+ ├── ⚡ Runtime ───────── Async Python + FastAPI
+ ├── 🔌 Transport ────── WebSocket bidirectional streams
+ ├── 🎙️ Audio Pipeline ── Real-time STT/TTS processing
+ └── 🤖 Automation ───── System-level task orchestration
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python_3.11-00f2fe?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-ec4899?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_GenAI-00f2fe?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/AsyncIO-38bdf8?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AsyncIO-7c3aed?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -187,68 +180,76 @@ suraj@cyberdeck:~# neofetch --ascii_distro kali
 
 <br/>
 
-<!-- Secondary Project Cards Grid -->
-<table width="100%">
+<!-- ▸ OTHER PROJECTS -->
+
+<table>
 <tr>
-<td width="50%" align="center" valign="top" style="padding: 16px;">
+<td width="33%" valign="top">
 
-<span style="float: right;">
-  <img src="https://img.shields.io/badge/STABLE-0ea5e9?style=flat-square"/>
-</span>
+<h3 align="center">⚡ SKILLX Discord Bot</h3>
 
-<div align="left">
+<div align="center">
+<img src="https://img.shields.io/badge/ORIGINAL-00f2fe?style=flat-square"/>
+<br/><br/>
 
-### 🩺 HealthCatch-AI
-*AI-driven health diagnostic & symptom pattern analysis engine.*
-
-- Automated risk estimation & personalized insights
-- Structured health telemetry & data processing
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-a855f7?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Healthcare-6366f1?style=flat-square"/>
+Feature-rich Discord bot built from the ground up with Python
 
 <br/><br/>
 
-<div align="center">
-<a href="https://github.com/Surajmaz/HealthCatch-AI">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT_→-0d1117?style=for-the-badge&logo=github&logoColor=0ea5e9"/>
+<img src="https://img.shields.io/badge/Python-00f2fe?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Surajmaz/SKILLX-DISCORD-BOT">
+<img src="https://img.shields.io/badge/VIEW_→-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe"/>
 </a>
 </div>
 
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🩺 HealthCatch-AI</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/AI_PROJECT-7c3aed?style=flat-square"/>
+<br/><br/>
+
+AI-powered health monitoring & symptom pattern analysis
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-7c3aed?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Surajmaz/HealthCatch-AI">
+<img src="https://img.shields.io/badge/VIEW_→-0d1117?style=for-the-badge&logo=github&logoColor=7c3aed"/>
+</a>
 </div>
 
 </td>
-<td width="50%" align="center" valign="top" style="padding: 16px;">
+<td width="33%" valign="top">
 
-<span style="float: right;">
-  <img src="https://img.shields.io/badge/RELEASE-6366f1?style=flat-square"/>
-</span>
+<h3 align="center">🤖 Multi-Bot</h3>
 
-<div align="left">
+<div align="center">
+<img src="https://img.shields.io/badge/UTILITY-ec4899?style=flat-square"/>
+<br/><br/>
 
-### ⚡ Multipurpose Discord Bot
-*Comprehensive server automation, moderation & utilities.*
+Multipurpose Discord bot with moderation, utilities & fun
 
-- Advanced role management & security moderation
-- High-uptime event processing & interactive commands
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-a855f7?style=flat-square"/>
 
 <br/><br/>
 
-<div align="center">
 <a href="https://github.com/Surajmaz/Multipurpose-discord-bot">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT_→-0d1117?style=for-the-badge&logo=github&logoColor=6366f1"/>
+<img src="https://img.shields.io/badge/VIEW_→-0d1117?style=for-the-badge&logo=github&logoColor=ec4899"/>
 </a>
-</div>
-
 </div>
 
 </td>
@@ -257,105 +258,110 @@ suraj@cyberdeck:~# neofetch --ascii_distro kali
 
 </div>
 
-<!-- Animated Rainbow Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Bd8/giphy.gif" width="26"> &nbsp; `github.telemetry` — ANALYTICS & ACHIEVEMENTS
+<!-- ╭──────────────────────────────────────────────────────────────────────╮
+     │  § 04  —  GITHUB ANALYTICS                                          │
+     ╰──────────────────────────────────────────────────────────────────────╯ -->
+
+<h2>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Bd8/giphy.gif" width="25"/>
+&nbsp;GITHUB ANALYTICS
+</h2>
 
 <div align="center">
 
-### 🐍 Contribution Activity Stream
-<sub>Live contribution snake tracking commits and code velocity</sub>
-
-<br/>
+<!-- ▸ CONTRIBUTION SNAKE -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake-dark.svg" width="100%" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Surajmaz/Surajmaz/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-### 📊 Live GitHub Metrics & Commit Streaks
+<!-- ▸ STATS + STREAK (transparent bg, custom neon colors) -->
 
-<!-- Dual Telemetry Cards: Stats + Streaks -->
 <a href="https://github.com/Surajmaz">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Surajmaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9&ring_color=6366f1&count_private=true&include_all_commits=true" width="49%" alt="Suraj's GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Surajmaz&show_icons=true&hide_border=true&bg_color=00000000&title_color=00f2fe&icon_color=ec4899&text_color=b3b3b3&ring_color=7c3aed&count_private=true&include_all_commits=true" width="49%" alt="Stats"/>
 </a>
 <a href="https://github.com/Surajmaz">
-<img src="https://streak-stats.demolab.com?user=Surajmaz&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=A855F7&currStreakLabel=0EA5E9&sideLabels=6366F1&dates=8B949E" width="49%" alt="Suraj's GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Surajmaz&hide_border=true&background=00000000&ring=00f2fe&fire=ec4899&currStreakNum=00f2fe&currStreakLabel=7c3aed&sideNums=00f2fe&sideLabels=7c3aed&dates=555555&stroke=7c3aed30" width="49%" alt="Streak"/>
 </a>
 
+<br/>
+
+<!-- ▸ CONTRIBUTION HEATMAP / ACTIVITY WAVE -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surajmaz&theme=2077" width="100%" alt="Activity Wave"/>
+
+<br/>
+
+<!-- ▸ LANGUAGE BREAKDOWN + PRODUCTIVE TIME -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surajmaz&theme=2077" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surajmaz&theme=2077" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surajmaz&theme=2077&utcOffset=5.5" width="32.5%"/>
+
 <br/><br/>
 
-### 📈 Contribution Velocity & Activity Wave
+<!-- ▸ TROPHIES -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surajmaz&theme=tokyonight" width="100%" alt="Contribution Wave Overview"/>
-
-<br/><br/>
-
-### ⏱️ Hourly Coding Velocity (Productive Peak Hours)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surajmaz&theme=tokyonight&utcOffset=5.5" width="85%" alt="Peak Productive Coding Hours"/>
-
-<br/><br/>
-
-### 🏆 GitHub Honor Roll & Trophies
-
-<img src="https://github-trophies.vercel.app/?username=Surajmaz&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=4" width="100%" alt="GitHub Honor Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Surajmaz&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" width="80%" alt="Trophies"/>
 
 </div>
 
-<!-- Animated Rainbow Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp; `network.connect` — TRANSMISSION CHANNELS
+<!-- ╭──────────────────────────────────────────────────────────────────────╮
+     │  § 05  —  CONNECT                                                    │
+     ╰──────────────────────────────────────────────────────────────────────╯ -->
+
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/>
+&nbsp;LET'S CONNECT
+</h2>
 
 <div align="center">
 
-<a href="https://github.com/Surajmaz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://github.com/Surajmaz"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:surajmazumdar27@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<a href="mailto:surajmazumdar27@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://surajmaz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<a href="https://surajmaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00f2fe?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
-<a href="https://discord.gg/UZHbRuxJja">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+<a href="https://discord.gg/UZHbRuxJja"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 &nbsp;
-<a href="https://instagram.com/suraj_mazumdar1337">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<a href="https://instagram.com/suraj_mazumdar1337"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 &nbsp;
-<a href="https://youtube.com/@IZMANTIGAMING">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
+<a href="https://youtube.com/@IZMANTIGAMING"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Engineering Quote" width="80%"/>
+<!-- ▸ RANDOM DEV QUOTE -->
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%"/>
 
 <br/><br/>
+
+<!-- ▸ SIGNATURE -->
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   "Automate the routine. Demystify the complex. Secure the core."          ║
-║                                                                            ║
-║                                                — Suraj Mazumdar            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+                    ╔══════════════════════════════════════════════╗
+                    ║                                              ║
+                    ║   "Automate the boring.                      ║
+                    ║    Understand the complex.                   ║
+                    ║    Secure the system."                       ║
+                    ║                                              ║
+                    ║            ── Suraj Mazumdar ⚡               ║
+                    ╚══════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- Cyberpunk Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:6366f1,50:0ea5e9,75:1e1b4b,100:090d16&height=150&section=footer&animation=twinkling" width="100%" alt="Footer Wave"/>
+<!-- ░▒▓ FOOTER ▓▒░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,30:0c0a3e,60:7c3aed,100:00f2fe&height=120&section=footer" width="100%"/>
 
 </div>
