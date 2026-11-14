@@ -73,7 +73,7 @@ const Suraj = {
     ],
     
     dailyStack: {
-        os:        ["Kali Linux", "Ubuntu"],
+        os:        ["Fedora", "Ubuntu"],
         languages: ["Python", "Bash", "JavaScript"],
         backend:   ["FastAPI", "Flask", "Node.js"],
         ai:        ["Google GenAI", "Gemini API"],
